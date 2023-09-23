@@ -2,6 +2,8 @@
 title: "40 Nickname for Anderson"
 description: 
 date: 2023-09-23T11:55:33Z
+categories:
+    - Nicknames
 image: 
 math: 
 license: 
