@@ -1,5 +1,5 @@
 ---
-title: "6 Nicknames for Colette: Fun and Creative"
+title: "60 Nicknames for Colette: Fun and Creative"
 description: Nicknames for Colette
 slug: Nicknames for Colette
 categories: Nicknames
