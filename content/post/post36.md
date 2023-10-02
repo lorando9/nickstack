@@ -1,7 +1,8 @@
 ---
 title: "50 Cool Nicknames for Everly"
 description: Nicknames for Everly
-slug: Nicknames
+slug: Nicknames for Everly
+categories: Nicknames
 date: 2023-10-01T04:06:29Z
 hidden: false
 comments: false
